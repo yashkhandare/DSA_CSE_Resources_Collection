@@ -9,6 +9,6 @@
 5. [WeWorkRemotely.com]( https://weworkremotely.com/)
 
 
-## Add to the list by Commenting Down :)
+## If you Find the collection Helpful, Dont forget to give a star⭐ :)
 
-[YashKhandare](https://github.com/yashkhandare/)
+[Resource Page]([https://github.com/yashkhandare](https://github.com/yashkhandare/DSA_CSE_Resources_Collection/)https://github.com/yashkhandare/DSA_CSE_Resources_Collection/)
